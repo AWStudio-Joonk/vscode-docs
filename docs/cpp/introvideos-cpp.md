@@ -16,25 +16,25 @@ Get started with C++ in Visual Studio Code by watching these introductory videos
 
 This video shows you how to install the C/C++ extension and a C++ compiler. You then learn how to run and debug your code by using the run or debug play button.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qeEcV6u1kV4" title="Getting Started with C++ in 5 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/qeEcV6u1kV4" title="Getting Started with C++ in 5 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Configure C++ IntelliSense
 
 This video walks you through the steps to configure C++ IntelliSense for your project.
 
-<iframe src="https://channel9.msdn.com/Blogs/One-Dev-Minute/Configure-C-IntelliSense-in-Visual-Studio-Code/player" width="960" height="540" allowFullScreen frameBorder="0" title="Configure C++ IntelliSense in Visual Studio Code - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://youtu.be/w6PnOlmop9Y" width="960" height="540" allowFullScreen frameBorder="0" title="Configure C++ IntelliSense in Visual Studio Code - Microsoft Channel 9 Video"></iframe>
 
 ## Build a C++ project
 
 Learn how to build C++ projects in VS Code by customizing your C++ build tasks.
 
-<iframe src="https://channel9.msdn.com/Blogs/One-Dev-Minute/Build-a-C-project-in-VS-Code/player" width="960" height="540" allowFullScreen frameBorder="0" title="Build a C++ project in VS Code - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://youtu.be/QNFGtTbTH-A" width="960" height="540" allowFullScreen frameBorder="0" title="Build a C++ project in VS Code - Microsoft Channel 9 Video"></iframe>
 
 ## Debug a C++ project
 
 This video shows you how to customize debug configurations for your C++ project and start a C++ debugging session in VS Code.
 
-<iframe src="https://channel9.msdn.com/Shows/Docs-Dev-Tools/Debug-a-C-project-in-VS-Code/player" width="960" height="540" allowFullScreen frameBorder="0" title="Debug a C++ project in VS Code - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://youtu.be/G9gnSGKYIg4" width="960" height="540" allowFullScreen frameBorder="0" title="Debug a C++ project in VS Code - Microsoft Channel 9 Video"></iframe>
 
 ## Next steps
 
